@@ -1,0 +1,13 @@
+{
+    "name": "design-system-tokens",
+    "version": "0.0.1",
+    "private": false,
+    "scripts": {
+        "build": "node app.js"
+    },
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "node-fetch": "^2.6.1"
+    },
+    "devDependencies": {}
+}
